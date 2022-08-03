@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@solana/solidity": "^0.0.20"
+  }
+}
