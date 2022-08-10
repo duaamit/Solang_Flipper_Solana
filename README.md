@@ -1,7 +1,7 @@
 # Solang_Flipper_Solana
 
 
-Baisc implementtaion of flipper contract written in Solidity using Solang. Solang can compile Solidity for Solana, Substrate, and ewasm. 
+Basic implementtaion of flipper contract written in Solidity using Solang. Solang can compile Solidity for Solana, Substrate, and ewasm. 
 Solang is source compatible with Solidity 0.8.
 
 Steps:
